@@ -84,19 +84,22 @@
           <mxGeometry x="550" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4-ePBTTTLUMWPQ_6cVo_-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="240" height="400" as="geometry" />
+          <mxGeometry x="480" y="510" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="4-ePBTTTLUMWPQ_6cVo_-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4-ePBTTTLUMWPQ_6cVo_-32">
           <mxGeometry x="10" y="150" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4-ePBTTTLUMWPQ_6cVo_-36" value="Hello User, it is time to take your medicine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4-ePBTTTLUMWPQ_6cVo_-32">
-          <mxGeometry x="10" y="150" width="220" height="130" as="geometry" />
+        <mxCell id="4-ePBTTTLUMWPQ_6cVo_-36" value="User, have you taken your medicine?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4-ePBTTTLUMWPQ_6cVo_-32">
+          <mxGeometry x="10" y="150" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4-ePBTTTLUMWPQ_6cVo_-40" value="Yes.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4-ePBTTTLUMWPQ_6cVo_-32">
+          <mxGeometry x="10" y="200" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4-ePBTTTLUMWPQ_6cVo_-34" value="Android Screen" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4-ePBTTTLUMWPQ_6cVo_-37" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="240" height="400" as="geometry" />
+          <mxGeometry x="50" y="510" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="4-ePBTTTLUMWPQ_6cVo_-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4-ePBTTTLUMWPQ_6cVo_-37">
           <mxGeometry x="10" y="150" width="220" height="120" as="geometry" />
